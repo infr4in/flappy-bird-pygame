@@ -1,0 +1,4 @@
+# recommended resolution: 576x1024
+WINDOW_WIDTH = 450
+WINDOW_HEIGHT = 800
+# FRAMERATE = 120
